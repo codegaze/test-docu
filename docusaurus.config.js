@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'My Site A',
   tagline: 'The tagline of my site',
   url: 'https://codegaze.github.io/test-docu',
   baseUrl: '/',
